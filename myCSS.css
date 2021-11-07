@@ -1,0 +1,42 @@
+#body {
+    background-color: #C2C5CC;
+}
+
+
+p, .subjects{
+    margin-top: -10px;
+    text-align: left;
+}
+
+h1 {
+    color: #32527B;
+    text-align: center;
+}
+
+
+h2 {
+    display: inline-block;
+    border: 3px solid DodgerBlue;
+    padding: 7px;
+}
+
+
+.left{
+    float: left;
+    padding: 5px;
+}
+
+
+.moods{
+    clear: left;
+    display: block;
+}
+
+img{
+    float: left;
+    padding: 5px;
+}
+
+.facts{
+    clear: left;
+}
